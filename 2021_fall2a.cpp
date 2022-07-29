@@ -1,4 +1,4 @@
-//no it doesn't
+//yes it does
 #include<iostream>
 using namespace std;
 class b;
