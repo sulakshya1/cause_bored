@@ -1,4 +1,4 @@
-//yes it does
+//yes it does...friend function is not a member function of the class but can access private members of that class. So that’s why friend function violate data hiding.
 #include<iostream>
 using namespace std;
 class b;
